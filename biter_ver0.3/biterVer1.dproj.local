@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/12/05 10:15:13.429.pas,C:\Users\Vivian_Jia\Documents\RAD Studio\Projects\Unit3.pas=D:\biter\loginfrm.pas</Transaction>
+    <Transaction>2011/12/05 10:15:13.429.dfm,C:\Users\Vivian_Jia\Documents\RAD Studio\Projects\Unit3.dfm=D:\biter\loginfrm.dfm</Transaction>
+    <Transaction>2011/12/05 10:49:30.611.pas,C:\Users\Vivian_Jia\Documents\RAD Studio\Projects\Unit3.pas=D:\biter\datamod.pas</Transaction>
+    <Transaction>2011/12/05 10:49:30.611.dfm,C:\Users\Vivian_Jia\Documents\RAD Studio\Projects\Unit3.dfm=D:\biter\datamod.dfm</Transaction>
+    <Transaction>2011/12/05 11:39:52.747.pas,C:\Users\Vivian_Jia\Documents\RAD Studio\Projects\Unit6.pas=D:\biter\blogSystem.pas</Transaction>
+    <Transaction>2011/12/05 11:39:52.759.dfm,C:\Users\Vivian_Jia\Documents\RAD Studio\Projects\Unit6.dfm=D:\biter\blogSystem.dfm</Transaction>
+    <Transaction>2011/12/05 17:40:10.381.dproj,C:\Users\Vivian_Jia\Documents\RAD Studio\Projects\Project2.dproj=D:\biter\biterVer1.dproj</Transaction>
+    <Transaction>2011/12/05 18:02:18.743.pas,D:\biter\Unit1.pas=D:\biter\userinfor.pas</Transaction>
+    <Transaction>2011/12/05 18:02:18.743.dfm,D:\biter\Unit1.dfm=D:\biter\userinfor.dfm</Transaction>
+    <Transaction>2011/12/05 18:36:37.606.pas,D:\biter\Unit1.pas=D:\biter\clientinfo.pas</Transaction>
+    <Transaction>2011/12/05 18:36:37.606.dfm,D:\biter\Unit1.dfm=D:\biter\clientinfo.dfm</Transaction>
+    <Transaction>2011/12/05 19:30:17.013.pas,D:\biter\Unit2.pas=D:\biter\conditionquery.pas</Transaction>
+    <Transaction>2011/12/05 19:30:17.013.dfm,D:\biter\Unit2.dfm=D:\biter\conditionquery.dfm</Transaction>
+    <Transaction>2011/12/05 19:43:06.690.pas,D:\biter\Unit2.pas=D:\biter\aboutinfor.pas</Transaction>
+    <Transaction>2011/12/05 19:43:06.690.dfm,D:\biter\Unit2.dfm=D:\biter\aboutinfor.dfm</Transaction>
+    <Transaction>2011/12/05 20:08:45.116.pas,D:\biter\Unit2.pas=D:\biter\configfrm.pas</Transaction>
+    <Transaction>2011/12/05 20:08:45.116.dfm,D:\biter\Unit2.dfm=D:\biter\configfrm.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="blogSystem.pas"/>
+    <File Path="blogSystem.dfm"/>
+    <File Path="accuratequery.pas"/>
+    <File Path="accuratequery.dfm"/>
+    <File Path="loginfrm.pas"/>
+    <File Path="loginfrm.dfm"/>
+    <File Path="datamod.pas"/>
+    <File Path="datamod.dfm"/>
+    <File Path="mainfrm.pas"/>
+    <File Path="mainfrm.dfm"/>
+    <File Path="userinfor.pas"/>
+    <File Path="userinfor.dfm"/>
+    <File Path="clientinfo.pas"/>
+    <File Path="clientinfo.dfm"/>
+    <File Path="conditionquery.pas"/>
+    <File Path="conditionquery.dfm"/>
+    <File Path="aboutinfor.pas"/>
+    <File Path="aboutinfor.dfm"/>
+    <File Path="configfrm.pas"/>
+    <File Path="configfrm.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
